@@ -4,7 +4,7 @@
 
 </div>
 
-# zeats-legacy-random
+# zeats-legacy-cep
 
 Extensions to solve common problems when working with brazilian CEP
 
